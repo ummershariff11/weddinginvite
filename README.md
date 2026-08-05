@@ -20,9 +20,10 @@ https://ummershariff11.github.io/weddinginvite/
 Share:
 https://ummershariff11.github.io/weddinginvite/
 
-The page includes Open Graph metadata and `assets/whatsapp-preview.jpg` for the WhatsApp preview.
+The page includes Open Graph metadata and `whatsapp-preview.jpg` for the WhatsApp preview.
 
 ## Audio
-If you have a dua recording you have permission to use, name it:
-`dua-bride-groom.mp3`
-and place it inside the `assets` folder.
+The invitation uses `assets/baraka-allahu-lakuma.mp3` and starts it when the guest opens the envelope. Browsers require that first tap before allowing audio playback. If the MP3 cannot load, the invitation automatically uses a gentle built-in ambient track.
+
+## Calendar links
+The invitation includes downloadable calendar entries for Apple Calendar, Android calendar apps, and Outlook, plus direct Google Calendar links for both wedding events.
