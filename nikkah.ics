@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shah Faisal and Fiza Khan//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nikkah-20260827@shahfaisal-fiza-wedding
+DTSTAMP:20260805T120000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Nikkah - Shah Faisal & Fiza Khan
+DESCRIPTION:After Namaz-e-Asar. Wedding invitation for Shah Faisal and Fiza Khan.
+LOCATION:Masjid-E-Khadria\, Plot No. 68\, Millers Rd\, Cantonment Railway Quarters\, Benson Town\, Bengaluru\, Karnataka 560046\, India
+URL:https://ummershariff11.github.io/weddinginvite/#nikkah
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
