@@ -1,17 +1,27 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Shah Faisal and Fiza Khan//Wedding Invitation//EN
+PRODID:-//Husna Kausar and Imaad Ulla Khan//Nikah Invitation//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:nikkah-20260827@shahfaisal-fiza-wedding
-DTSTAMP:20260805T120000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Nikkah - Shah Faisal & Fiza Khan
-DESCRIPTION:After Namaz-e-Asar. Wedding invitation for Shah Faisal and Fiza Khan.
-LOCATION:Masjid-E-Khadria\, Plot No. 68\, Millers Rd\, Cantonment Railway Quarters\, Benson Town\, Bengaluru\, Karnataka 560046\, India
-URL:https://ummershariff11.github.io/weddinginvite/#nikkah
+UID:nikah-20260905@husna-imaad-wedding
+DTSTAMP:20260813T200000Z
+DTSTART;TZID=Asia/Kolkata:20260905T180000
+DTEND;TZID=Asia/Kolkata:20260905T230000
+SUMMARY:Nikah - Husna Kausar & Imaad Ulla Khan
+DESCRIPTION:Nikah proceedings begin at 6:00 PM. The sacred Nikah is at 7:00 PM\, followed by dinner at 8:00 PM and Sufi Mehfil at 10:00 PM.
+LOCATION:Crown Pavilion 2\, Gate No. 5\, Palace Grounds\, Bellary Road\, Jayamahal\, Bengaluru 560080
+URL:https://ummershariff11.github.io/weddinginvite/#venue
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

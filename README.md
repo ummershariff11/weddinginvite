@@ -1,34 +1,41 @@
-# Shah Faisal & Fiza Khan — Wedding Invitation
+# Husna Kausar & Imaad Ulla Khan — Nikah Invitation
 
-This folder is ready to upload to:
-https://github.com/ummershariff11/weddinginvite
+An interactive, mobile-first Nikah invitation for Saturday, 5 September 2026 at Crown Pavilion 2, Bengaluru.
 
-Expected live URL after GitHub Pages is enabled:
+## Live invitation
+
 https://ummershariff11.github.io/weddinginvite/
 
-## Upload to GitHub
-1. Open the `ummershariff11/weddinginvite` repository.
-2. Click **Add file** → **Upload files**.
-3. Drag the CONTENTS of this folder into the upload area. `index.html` must be at the repository root, not inside another folder.
-4. Commit the files to the `main` branch.
-5. Open **Settings** → **Pages**.
-6. Under **Build and deployment**, choose **Deploy from a branch**.
-7. Select branch **main** and folder **/(root)**, then click **Save**.
-8. Wait for GitHub Pages to show the live site URL.
+The site is deployed through GitHub Pages from the root of the main branch.
 
-## WhatsApp sharing
-Share:
-https://ummershariff11.github.io/weddinginvite/
+## Invitation experience
 
-The page includes Open Graph metadata and `whatsapp-preview.jpg` for the WhatsApp preview.
+- Ivory, antique-gold, burgundy and blush floral stationery design
+- Guest-triggered opening with calm background audio
+- Baraka Allahu Lakuma begins at the first lyric with a gentle fade-in
+- Complete order of proceedings from 6:00 PM onward
+- Google Maps directions and downloadable calendar entry
+- Countdown to the sacred Nikah at 7:00 PM IST
+- Native sharing with clipboard fallback and WhatsApp/Open Graph preview
+- Keyboard navigation, reduced-motion support and responsive layouts
 
-## Audio
-The invitation uses `assets/baraka-allahu-lakuma.mp3` and starts it when the guest opens the envelope. Browsers require that first tap before allowing audio playback. If the MP3 cannot load, the invitation automatically uses a gentle built-in ambient track.
+## Event
 
-## Cinematic invitation journey
-The gold-sealed envelope opens from a moonlit emerald setting into one continuous ivory-and-champagne manuscript world. The couple, Nikkah, Valima, and closing/countdown scenes flow through shared architectural, floral, celestial, light, depth, and parallax layers with natural mobile scrolling and reduced-motion support.
+**Husna Kausar & Imaad Ulla Khan**
 
-Arabic calligraphy is woven into the experience through the Bismillah, the Qur&rsquo;anic phrase about affection and mercy (30:21), Arabic ceremony titles, scene-responsive background calligraphy, and the traditional dua for newlyweds.
+Saturday, 5 September 2026
 
-## Calendar links
-The invitation includes downloadable calendar entries for Apple Calendar, Android calendar apps, and Outlook, plus direct Google Calendar links for both wedding events.
+Proceedings begin at 6:00 PM
+
+Sacred Nikah at 7:00 PM
+
+Crown Pavilion 2, Gate No. 5, Palace Grounds, Bellary Road, Jayamahal, Bengaluru – 560080
+
+## Files
+
+- index.html — complete invitation
+- nikkah.ics — 6:00–11:00 PM calendar event in Asia/Kolkata
+- assets/floral-invitation.png — text-free botanical stationery artwork
+- assets/baraka-allahu-lakuma.mp3 — background track
+- whatsapp-preview-v2.png — social sharing artwork
+- SHARE-ON-WHATSAPP.txt — suggested sharing message
