@@ -11,6 +11,8 @@ The site is deployed through GitHub Pages from the root of the main branch.
 ## Invitation experience
 
 - Ivory, antique-gold, burgundy and blush floral stationery design
+- Cinematic arch opening, layered parallax, light effects and drifting petals
+- Responsive 3D depth and card interactions on pointer-enabled devices
 - Guest-triggered opening with calm background audio
 - Baraka Allahu Lakuma begins at the first lyric with a gentle fade-in
 - Complete order of proceedings from 6:00 PM onward
