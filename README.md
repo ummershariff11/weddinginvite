@@ -39,5 +39,5 @@ Crown Pavilion 2, Gate No. 5, Palace Grounds, Bellary Road, Jayamahal, Bengaluru
 - nikkah.ics — 6:00–11:00 PM calendar event in Asia/Kolkata
 - assets/floral-invitation.png — text-free botanical stationery artwork
 - assets/baraka-allahu-lakuma.mp3 — background track
-- whatsapp-preview-v2.png — social sharing artwork
+- whatsapp-preview-v3.png — social sharing artwork
 - SHARE-ON-WHATSAPP.txt — suggested sharing message
